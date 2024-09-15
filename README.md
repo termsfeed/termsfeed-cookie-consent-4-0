@@ -82,7 +82,7 @@ Here's an example:
 The below example includes the install + config code, the button to open Preferences Center and an example of JS script tagged.
 
     <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
-     <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/3.1.0/cookie-consent.js" charset="UTF-8"></script>
+     <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
     <script type="text/javascript" charset="UTF-8">
         document.addEventListener('DOMContentLoaded', function () {
             cookieconsent.run({
